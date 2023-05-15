@@ -1,2 +1,2 @@
 # reproducible_res_course
-test repository for reproducible research course 
+This is a test repository for the reproducible research course. 
